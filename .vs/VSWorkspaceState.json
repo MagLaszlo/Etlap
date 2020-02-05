@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\OoPRestaurant202002",
+    "\\OoPRestaurant202002\\OoPRestaurant202002",
+    "\\OoPRestaurant202002\\OoPRestaurant202002\\App_Data"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\OoPRestaurant202002\\OoPRestaurant202002\\App_Data\\aspnet-OoPRestaurant202002-20200204104401.mdf",
   "PreviewInSolutionExplorer": false
 }
